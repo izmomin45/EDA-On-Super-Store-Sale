@@ -26,7 +26,7 @@ This analysis focuses on an EDA (Exploratory Data Analysis) of a dataset contain
 
 11] Customer ID: (String) Unique identifier for each customer.
 
-#Questions and Answers
+# Questions and Answers
 
 1] E1] What is the total number of orders placed?
 
