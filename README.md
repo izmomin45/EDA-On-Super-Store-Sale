@@ -1,8 +1,8 @@
-#Data Description
+# Data Description
 
-This analysis focuses on an EDA (Exploratory Data Analysis) of a dataset containing various aspects of sales and customer orders. The goal is to uncover insights related to order patterns, profitability, customer preferences, and other key metrics.
+This analysis focuses on an EDA (Exploratory Data Analysis) of a dataset containing various aspects of sales and customer orders. The goal is to uncover insights related to order patterns, profitability, customer preferences, and other key metrics. its has **23 Columns And Close to 6000 Rows**
 
-  #Columns Description
+  # Columns Description
   
 1] Order ID: (String) Unique identifier for each order.
 
