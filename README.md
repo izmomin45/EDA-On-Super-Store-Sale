@@ -1,4 +1,5 @@
 #Data Description
+
 This analysis focuses on an EDA (Exploratory Data Analysis) of a dataset containing various aspects of sales and customer orders. The goal is to uncover insights related to order patterns, profitability, customer preferences, and other key metrics.
 
   #Columns Description
@@ -25,7 +26,7 @@ This analysis focuses on an EDA (Exploratory Data Analysis) of a dataset contain
 
 11] Customer ID: (String) Unique identifier for each customer.
 
-Questions and Answers
+#Questions and Answers
 
 1] E1] What is the total number of orders placed?
 
@@ -108,3 +109,12 @@ Ans H6] Higher quantities generally lead to higher profits.
 6] **Profit Trends:** Higher quantities and specific days of delivery (like the 8th day) correlate with increased profitability.
 
 7] **Customer Insights:** With 773 customers, understanding their preferences and behavior could further optimize sales strategies.
+
+
+# Technologies Used   
+1]  Python
+2]  Pandas
+3]  Numpy
+4]  Matplotlib
+5]  Seaborn
+6]  Jupyter Notebook
